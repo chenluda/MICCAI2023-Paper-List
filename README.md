@@ -129,5 +129,11 @@
 
 + WeakPolyp: You Only Look Bounding Box for Polyp Segmentation (你只能看到息肉分割的边界框) [[arxiv](https://arxiv.org/abs/2307.10912)] [[code](https://github.com/weijun88/WeakPolyp)]
 
++ Parse and Recall: Towards Accurate Lung Nodule Malignancy Prediction like Radiologists (像放射科医生一样准确预测肺结节恶性肿瘤) [[arxiv](https://arxiv.org/abs/2307.10824)] [code]
 
++ Community-Aware Transformer for Autism Prediction in fMRI Connectome (fMRI 连接体中用于自闭症预测的社区感知变压器) [[arxiv](https://arxiv.org/abs/2307.10181)] [[code](https://github.com/ubc-tea/Com-BrainTF)]
+
++ Make-A-Volume: Leveraging Latent Diffusion Models for Cross-Modality 3D Brain MRI Synthesis (利用潜在扩散模型进行跨模态 3D 脑 MRI 合成) [[arxiv](https://arxiv.org/abs/2307.10094)] [code]
+
++ Source-Free Domain Adaptive Fundus Image Segmentation with Class-Balanced Mean Teacher (基于类平衡均值教师的无源域自适应眼底图像分割) [[arxiv](https://arxiv.org/abs/2307.09973)] [[code](https://github.com/lloongx/SFDA-CBMT)]
 
