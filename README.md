@@ -137,3 +137,9 @@
 
 + Source-Free Domain Adaptive Fundus Image Segmentation with Class-Balanced Mean Teacher (基于类平衡均值教师的无源域自适应眼底图像分割) [[arxiv](https://arxiv.org/abs/2307.09973)] [[code](https://github.com/lloongx/SFDA-CBMT)]
 
++ DiffDP: Radiotherapy Dose Prediction via a Diffusion Model (通过扩散模型进行放射治疗剂量预测) [[arxiv](https://arxiv.org/abs/2307.09794)] [code]
+
++ Transformer-based Dual-domain Network for Few-view Dedicated Cardiac SPECT Image Reconstructions (基于变压器的双域网络用于少视图专用心脏SPECT图像重建) [[arxiv](https://arxiv.org/abs/2307.09624)] [code]
+
++ EGE-UNet: an Efficient Group Enhanced UNet for skin lesion segmentation (一种用于皮肤病变分割的高效组增强 UNet) [[arxiv](https://arxiv.org/abs/2307.08473)] [[code](https://github.com/JCruan519/EGE-UNet)]
+
