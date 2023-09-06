@@ -143,3 +143,15 @@
 
 + EGE-UNet: an Efficient Group Enhanced UNet for skin lesion segmentation (一种用于皮肤病变分割的高效组增强 UNet) [[arxiv](https://arxiv.org/abs/2307.08473)] [[code](https://github.com/JCruan519/EGE-UNet)]
 
++ M-FLAG: Medical Vision-Language Pre-training with Frozen Language Models and Latent Space Geometry Optimization (基于冻结语言模型和潜在空间几何优化的医学视觉语言预训练) [[arxiv](https://arxiv.org/abs/2307.08347)] [[code](https://github.com/cheliu-computation/M-FLAG-MICCAI2023)]
+
++ A Novel Multi-Task Model Imitating Dermatologists for Accurate Differential Diagnosis of Skin Diseases in Clinical Images (一种新的模仿皮肤科医生的多任务模型用于临床图像中皮肤病的精确鉴别诊断) [[arxiv](https://arxiv.org/abs/2307.08308)] [code]
+
++ Liver Tumor Screening and Diagnosis in CT with Pixel-Lesion-Patient Network (基于像素病变患者网络的肝脏肿瘤CT筛查与诊断) [[arxiv](https://arxiv.org/abs/2307.08268)] [code]
+
++ Boundary-weighted logit consistency improves calibration of segmentation networks (边界加权 logit 一致性改进分割网络的校准) [[arxiv](https://arxiv.org/abs/2307.08163)] [code]
+
++ MUVF-YOLOX: A Multi-modal Ultrasound Video Fusion Network for Renal Tumor Diagnosis (一种用于肾肿瘤诊断的多模式超声视频融合网络) [[arxiv](https://arxiv.org/abs/2307.07807)] [[code](https://github.com/JeunyuLi/MUAF)]
+
++ ConTrack: Contextual Transformer for Device Tracking in X-ray (X射线设备跟踪的上下文转换器) [[arxiv](https://arxiv.org/abs/2307.07541)] [code]
+
