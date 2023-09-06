@@ -115,7 +115,19 @@
 
 + Deep Reinforcement Learning Based System for Intraoperative Hyperspectral Video Autofocusing (基于深度强化学习的术中高光谱视频自动对焦系统) [[arxiv](https://arxiv.org/abs/2307.11638)] [code]
 
++ Consistency-guided Meta-Learning for Bootstrapping Semi-Supervised Medical Image Segmentation (一致性指导的自助式半监督医疗图像分割元学习) [[arxiv](https://arxiv.org/abs/2307.11604)] [[code](https://github.com/aijinrjinr/MLB-Seg)]
 
++ CortexMorph: fast cortical thickness estimation via diffeomorphic registration using VoxelMorph (基于 VoxelMorph 的差分形态配准快速皮层厚度估计) [[arxiv](https://arxiv.org/abs/2307.11567)] [code]
+
++ EndoSurf: Neural Surface Reconstruction of Deformable Tissues with Stereo Endoscope Videos (基于立体内窥镜视频的可变形组织神经表面重建) [[arxiv](https://arxiv.org/abs/2307.11307)] [[code](https://github.com/Ruyi-Zha/endosurf)]
+
++ GLSFormer: Gated - Long, Short Sequence Transformer for Step Recognition in Surgical Videos (门控长短序列变压器在外科视频步长识别中的应用) [[arxiv](https://arxiv.org/abs/2307.11081)] [[code](https://github.com/nisargshah1999/GLSFormer)]
+
++ Spinal nerve segmentation method and dataset construction in endoscopic surgical scenarios (内窥镜手术中脊神经分割方法及数据集构建) [[arxiv](https://arxiv.org/abs/2307.10955)] [[code](https://github.com/zzzzzzpc/FUnet)]
+
++ Soft-tissue Driven Craniomaxillofacial Surgical Planning (软组织驱动的颅颌面外科规划) [[arxiv](https://arxiv.org/abs/2307.10954)] [code]
+
++ WeakPolyp: You Only Look Bounding Box for Polyp Segmentation (你只能看到息肉分割的边界框) [[arxiv](https://arxiv.org/abs/2307.10912)] [[code](https://github.com/weijun88/WeakPolyp)]
 
 
 
