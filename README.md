@@ -156,3 +156,21 @@
 
 + ConTrack: Contextual Transformer for Device Tracking in X-ray (X 射线设备跟踪的上下文转换器) [[arxiv](https://arxiv.org/abs/2307.07541)] [code]
 
++ Frequency Domain Adversarial Training for Robust Volumetric Medical Segmentation (用于鲁棒体积医学分割的频域对抗性训练) [[arxiv](https://arxiv.org/abs/2307.07269)] [[code](https://github.com/asif-hanif/vafa)]
+
++ Knowledge Boosting: Rethinking Medical Contrastive Vision-Language Pre-Training (知识提升：医学对比视觉语言预训练的再思考) [[arxiv](https://arxiv.org/abs/2307.07246)] [[code](https://github.com/ChenXiaoFei-CS/KoBo)]
+
++ CellGAN: Conditional Cervical Cell Synthesis for Augmenting Cytopathological Image Classification (用于增强细胞病理图像分类的条件宫颈细胞合成) [[arxiv](https://arxiv.org/abs/2307.06182)] [[code](https://github.com/ZhenrongShen/CellGAN)]
+
++ Rectifying Noisy Labels with Sequential Prior: Multi-Scale Temporal Feature Affinity Learning for Robust Video Segmentation (用序列先验校正噪声标签：用于鲁棒视频分割的多尺度时间特征仿射学习) [[arxiv](https://arxiv.org/abs/2307.05898)] [[code](https://github.com/BeileiCui/MS-TFAL)]
+
++ FreeSeed: Frequency-band-aware and Self-guided Network for Sparse-view CT Reconstruction (用于稀疏视图 CT 重建的频带感知和自导网络) [[arxiv](https://arxiv.org/abs/2307.05890)] [[code](https://github.com/Masaaki-75/freeseed)]
+
++ Rad-ReStruct: A Novel VQA Benchmark and Method for Structured Radiology Reporting (一种用于结构化放射学报告的新型 VQA 基准和方法) [[arxiv](https://arxiv.org/abs/2307.05766)] [[code](https://github.com/ChantalMP/Rad-ReStruct)]
+
++ DRMC: A Generalist Model with Dynamic Routing for Multi-Center PET Image Synthesis (一种具有动态路由的多中心 PET 图像合成广义模型) [[arxiv](https://arxiv.org/abs/2307.05249)] [[code](https://github.com/Yaziwel/Multi-Center-PET-Image-Synthesis)]
+
++ CAT-ViL: Co-Attention Gated Vision-Language Embedding for Visual Question Localized-Answering in Robotic Surgery (用于机器人手术中视觉问题本地化回答的共注意门控视觉语言嵌入) [[arxiv](https://arxiv.org/abs/2307.05182)] [[code](https://github.com/longbai1006/CAT-ViL)]
+
++ Multimodal brain age estimation using interpretable adaptive population-graph learning (利用可解释的自适应群体图学习进行多模态脑年龄估计) [[arxiv](https://arxiv.org/abs/2307.04639)] [[code](https://github.com/bintsi/adaptive-graph-learning)]
+
