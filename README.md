@@ -1,5 +1,11 @@
 # MICCAI-2023-paper-list
 
++ Anatomy-informed Data Augmentation for Enhanced Prostate Cancer Detection () [[arxiv](https://arxiv.org/abs/2309.03652)] [code]
+
++ LightNeuS: Neural Surface Reconstruction in Endoscopy using Illumination Decline () [[arxiv](https://arxiv.org/abs/2309.02777)] [code]
+
++ Progressive Attention Guidance for Whole Slide Vulvovaginal Candidiasis Screening () [[arxiv](https://arxiv.org/abs/2309.02670)] [[code](https://github.com/caijd2000/MICCAI2023-VVC-Screening)]
+
 + Anatomy-Driven Pathology Detection on Chest X-rays (胸部 X 射线解剖驱动的病理学检测) [[arxiv](https://arxiv.org/abs/2309.02578)] [code]
 
 + Towards frugal unsupervised detection of subtle abnormalities in medical imaging (医学成像中细微异常的节俭无监督检测) [[arxiv](https://arxiv.org/abs/2309.02458)] [[code](https://github.com/geoffroyO/onlineEM)]
