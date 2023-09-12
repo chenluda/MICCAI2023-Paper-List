@@ -206,3 +206,7 @@
 
 + Ariadne's Thread:Using Text Prompts to Improve Segmentation of Infected Areas from Chest X-ray images (Ariadne 的思路：使用文本提示改进胸部X射线图像中感染区域的分割) [[arxiv](https://arxiv.org/abs/2307.03942)] [[code](https://github.com/Junelin2333/LanGuideMedSeg-MICCAI2023)]
 
++ Unsupervised 3D out-of-distribution detection with latent diffusion models (具有潜在扩散模型的无监督三维分布外检测) [[arxiv](https://arxiv.org/abs/2307.03777)] [[code](https://github.com/marksgraham/ddpm-ood)]
+
++ Detecting the Sensing Area of A Laparoscopic Probe in Minimally Invasive Cancer Surgery (癌症微创手术中腹腔镜探头传感区的检测) [[arxiv](https://arxiv.org/abs/2307.03662)] [[code](https://github.com/br0202/Sensing_area_detection)]
+
