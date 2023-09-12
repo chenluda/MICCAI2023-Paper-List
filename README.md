@@ -1,8 +1,14 @@
 # MICCAI-2023-paper-list
 
-+ Anatomy-informed Data Augmentation for Enhanced Prostate Cancer Detection () [[arxiv](https://arxiv.org/abs/2309.03652)] [code]
++ Gall Bladder Cancer Detection from US Images with Only Image Level Labels (基于图像级别标记的超声图像胆囊癌检测) [[arxiv](https://arxiv.org/abs/2309.05261)] [[code](https://gbc-iitd.github.io/wsod-gbc)]
 
-+ LightNeuS: Neural Surface Reconstruction in Endoscopy using Illumination Decline () [[arxiv](https://arxiv.org/abs/2309.02777)] [code]
++ A Spatial-Temporal Deformable Attention based Framework for Breast Lesion Detection in Videos (基于时空变形注意的视频乳腺病变检测框架) [[arxiv](https://arxiv.org/abs/2309.04702)] [[code](https://github.com/AlfredQin/STNet)]
+
++ Motion Compensated Unsupervised Deep Learning for 5D MRI (基于运动补偿的 5D MRI 无监督深度学习) [[arxiv](https://arxiv.org/abs/2309.04552)] [[code](https://github.com/caijd2000/MICCAI2023-VVC-Screening)]
+
++ Anatomy-informed Data Augmentation for Enhanced Prostate Cancer Detection (增强型前列腺癌的解剖学信息增强技术) [[arxiv](https://arxiv.org/abs/2309.03652)] [[code](https://github.com/caijd2000/MICCAI2023-VVC-Screening)]
+
++ LightNeuS: Neural Surface Reconstruction in Endoscopy using Illumination Decline () [[arxiv](https://arxiv.org/abs/2309.02777)] [[code](https://github.com/caijd2000/MICCAI2023-VVC-Screening)]
 
 + Progressive Attention Guidance for Whole Slide Vulvovaginal Candidiasis Screening () [[arxiv](https://arxiv.org/abs/2309.02670)] [[code](https://github.com/caijd2000/MICCAI2023-VVC-Screening)]
 
