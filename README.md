@@ -190,3 +190,17 @@
 
 + Multimodal brain age estimation using interpretable adaptive population-graph learning (利用可解释的自适应群体图学习进行多模态脑年龄估计) [[arxiv](https://arxiv.org/abs/2307.04639)] [[code](https://github.com/bintsi/adaptive-graph-learning)]
 
++ Weakly-supervised positional contrastive learning: application to cirrhosis classification (弱监督位置对比学习在肝硬化分类中的应用) [[arxiv](https://arxiv.org/abs/2307.04617)] [[code](https://github.com/Guerbet-AI/wsp-contrastive)]
+
++ Cluster-Induced Mask Transformers for Effective Opportunistic Gastric Cancer Screening on Non-contrast CT Scans (弱监督位置对比学习在肝硬化分类中的应用) [[arxiv](https://arxiv.org/abs/2307.04525)] [code]
+
++ CoactSeg: Learning from Heterogeneous Data for New Multiple Sclerosis Lesion Segmentation (CoactSeg:从异构数据中学习用于新的多发性硬化病变分割) [[arxiv](https://arxiv.org/abs/2307.04513)] [[code](https://github.com/ycwu1997/CoactSeg)]
+
++ Partial Vessels Annotation-based Coronary Artery Segmentation with Self-training and Prototype Learning (基于局部血管注释的自训练和原型学习冠状动脉分割) [[arxiv](https://arxiv.org/abs/2307.04472)] [[code](https://github.com/ZhangZ7112/PVA-CAS)]
+
++ Towards Generalizable Diabetic Retinopathy Grading in Unseen Domains (在未知领域进行糖尿病视网膜病变分级) [[arxiv](https://arxiv.org/abs/2307.04378)] [[code](https://github.com/chehx/DGDR)]
+
++ Mitosis Detection from Partial Annotation by Dataset Generation via Frame-Order Flipping (基于帧顺序翻转的数据集生成从部分注释中检测有丝分裂) [[arxiv](https://arxiv.org/abs/2307.04113)] [[code](https://github.com/naivete5656/MDPAFOF)]
+
++ Ariadne's Thread:Using Text Prompts to Improve Segmentation of Infected Areas from Chest X-ray images (Ariadne 的思路：使用文本提示改进胸部X射线图像中感染区域的分割) [[arxiv](https://arxiv.org/abs/2307.03942)] [[code](https://github.com/Junelin2333/LanGuideMedSeg-MICCAI2023)]
+
