@@ -2,6 +2,8 @@
 
 持续更新中...
 
++ ConvFormer: Plug-and-Play CNN-Style Transformers for Improving Medical Image Segmentation (改进医学图像分割的即插即用 CNN 风格转换器) [[arxiv](https://arxiv.org/abs/2309.05674)] [[code](https://github.com/xianlin7/ConvFormer)]
+
 + Gall Bladder Cancer Detection from US Images with Only Image Level Labels (基于图像级别标记的超声图像胆囊癌检测) [[arxiv](https://arxiv.org/abs/2309.05261)] [[code](https://gbc-iitd.github.io/wsod-gbc)]
 
 + A Spatial-Temporal Deformable Attention based Framework for Breast Lesion Detection in Videos (基于时空变形注意的视频乳腺病变检测框架) [[arxiv](https://arxiv.org/abs/2309.04702)] [[code](https://github.com/AlfredQin/STNet)]
