@@ -2,6 +2,12 @@
 
 持续更新中...
 
++ Privacy-preserving Early Detection of Epileptic Seizures in Videos (视频中癫痫发作的隐私保护早期检测) [[arxiv](https://arxiv.org/abs/2309.08794)] [[code](https://github.com/DevD1092/seizure-detection)]
+
++ Unified Brain MR-Ultrasound Synthesis using Multi-Modal Hierarchical Representations (利用多模态分层表示进行统一的脑磁共振超声合成) [[arxiv](https://arxiv.org/abs/2309.08747)] [[code](https://github.com/ReubenDo/MHVAE)]
+
++ Performance Metrics for Probabilistic Ordinal Classifiers (概率正序分类器的性能指标) [[arxiv](https://arxiv.org/abs/2309.08701)] [code]
+
 + ConvFormer: Plug-and-Play CNN-Style Transformers for Improving Medical Image Segmentation (改进医学图像分割的即插即用 CNN 风格转换器) [[arxiv](https://arxiv.org/abs/2309.05674)] [[code](https://github.com/xianlin7/ConvFormer)]
 
 + Gall Bladder Cancer Detection from US Images with Only Image Level Labels (基于图像级别标记的超声图像胆囊癌检测) [[arxiv](https://arxiv.org/abs/2309.05261)] [[code](https://gbc-iitd.github.io/wsod-gbc)]
