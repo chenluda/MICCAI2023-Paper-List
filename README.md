@@ -2,6 +2,8 @@
 
 持续更新中...
 
++ GL-Fusion: Global-Local Fusion Network for Multi-view Echocardiogram Video Segmentation (GL-Fusion：用于多视角超声心动图视频分割的全局-局部融合网络) [[arxiv](https://arxiv.org/abs/2309.11144)] [[code](https://github.com/xmed-lab/GL-Fusion)]
+
 + Privacy-preserving Early Detection of Epileptic Seizures in Videos (视频中癫痫发作的隐私保护早期检测) [[arxiv](https://arxiv.org/abs/2309.08794)] [[code](https://github.com/DevD1092/seizure-detection)]
 
 + Unified Brain MR-Ultrasound Synthesis using Multi-Modal Hierarchical Representations (利用多模态分层表示进行统一的脑磁共振超声合成) [[arxiv](https://arxiv.org/abs/2309.08747)] [[code](https://github.com/ReubenDo/MHVAE)]
