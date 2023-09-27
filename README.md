@@ -2,6 +2,8 @@
 
 持续更新中...
 
++ + Speech Audio Synthesis from Tagged MRI and Non-Negative Matrix Factorization via Plastic Transformer (通过 Plastic Transformer 从标记磁共振成像和非负矩阵因式分解合成语音音频) [[arxiv](https://arxiv.org/abs/2309.14586)] [code]
+
 + GL-Fusion: Global-Local Fusion Network for Multi-view Echocardiogram Video Segmentation (GL-Fusion：用于多视角超声心动图视频分割的全局-局部融合网络) [[arxiv](https://arxiv.org/abs/2309.11144)] [[code](https://github.com/xmed-lab/GL-Fusion)]
 
 + Privacy-preserving Early Detection of Epileptic Seizures in Videos (视频中癫痫发作的隐私保护早期检测) [[arxiv](https://arxiv.org/abs/2309.08794)] [[code](https://github.com/DevD1092/seizure-detection)]
