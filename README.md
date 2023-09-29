@@ -2,6 +2,8 @@
 
 持续更新中...
 
++ Towards Novel Class Discovery: A Study in Novel Skin Lesions Clustering (走向新类别发现：新型皮肤病变聚类研究) [[arxiv](https://arxiv.org/abs/2309.16451)] [code]
+
 + Automated CT Lung Cancer Screening Workflow using 3D Camera (使用 3D 相机的 CT 肺癌自动筛查工作流程) [[arxiv](https://arxiv.org/abs/2309.15750)] [code]
 
 + Speech Audio Synthesis from Tagged MRI and Non-Negative Matrix Factorization via Plastic Transformer (通过 Plastic Transformer 从标记磁共振成像和非负矩阵因式分解合成语音音频) [[arxiv](https://arxiv.org/abs/2309.14586)] [code]
