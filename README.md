@@ -2,6 +2,8 @@
 
 持续更新中...
 
++ LSOR: Longitudinally-Consistent Self-Organized Representation Learning (LSOR： 纵向一致的自组织表象学习) [[arxiv](https://arxiv.org/abs/2310.00213)] [[code](https://github.com/ouyangjiahong/longitudinal-som-single-modality)]
+
 + Towards Novel Class Discovery: A Study in Novel Skin Lesions Clustering (走向新类别发现：新型皮肤病变聚类研究) [[arxiv](https://arxiv.org/abs/2309.16451)] [code]
 
 + Automated CT Lung Cancer Screening Workflow using 3D Camera (使用 3D 相机的 CT 肺癌自动筛查工作流程) [[arxiv](https://arxiv.org/abs/2309.15750)] [code]
