@@ -2,6 +2,10 @@
 
 持续更新中...
 
++ SMRD: SURE-based Robust MRI Reconstruction with Diffusion Models (SMRD：基于 SURE 的鲁棒 MRI 重构与扩散模型) [[arxiv](https://arxiv.org/abs/2310.01799)] [[code](https://github.com/batuozt/SMRD)]
+
++ Learning Expected Appearances for Intraoperative Registration during Neurosurgery (学习神经外科术中登记的预期外观) [[arxiv](https://arxiv.org/abs/2310.01735)] [code]
+
 + Cross-adversarial local distribution regularization for semi-supervised medical image segmentation (可学习的跨模态知识提炼，用于缺失模态的多模态学习) [[arxiv](https://arxiv.org/abs/2310.01176)] [[code](https://github.com/PotatoThanh/Cross-adversarial-local-distribution-regularization)]
 
 + Learnable Cross-modal Knowledge Distillation for Multi-modal Learning with Missing Modality (可学习的跨模态知识提炼，用于缺失模态的多模态学习) [[arxiv](https://arxiv.org/abs/2310.01035)] [code]
