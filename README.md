@@ -2,6 +2,32 @@
 
 持续更新中...
 
+springer 的官网已经放出合订本了，有资源的朋友们可以自行去下载了。
+
+[Part I: Machine learning with limited supervision and machine learning – transfer learning](https://link.springer.com/book/10.1007/978-3-031-43907-0)
+
+[Part II: Machine learning – learning strategies; machine learning – explainability, bias, and uncertainty](https://link.springer.com/book/10.1007/978-3-031-43895-0)
+
+[Part III: Machine learning – explainability, bias and uncertainty; image segmentation](https://link.springer.com/book/10.1007/978-3-031-43898-1)
+
+[Part IV: Image segmentation](https://link.springer.com/book/10.1007/978-3-031-43901-8)
+
+[Part V: Computer-aided diagnosis](https://link.springer.com/book/10.1007/978-3-031-43904-9)
+
+[Part VI: Computer-aided diagnosis; computational pathology](https://link.springer.com/book/10.1007/978-3-031-43987-2)
+
+[Part VII: Clinical applications – abdomen; clinical applications – breast; clinical applications – cardiac; clinical applications – dermatology; clinical applications – fetal imaging; clinical applications – lung; clinical applications – musculoskeletal; clinical applications – oncology; clinical applications – ophthalmology; clinical applications – vascular](https://link.springer.com/book/10.1007/978-3-031-43990-2)
+
+[Part VIII: Clinical applications – neuroimaging; microscopy](https://link.springer.com/book/10.1007/978-3-031-43993-3)
+
+[Part IX: Image-guided intervention, surgical planning, and data science](https://link.springer.com/book/10.1007/978-3-031-43996-4)
+
+[Part X: Image reconstruction and image registration](https://link.springer.com/book/10.1007/978-3-031-43999-5)
+
+
+---
+
+
 + SMRD: SURE-based Robust MRI Reconstruction with Diffusion Models (SMRD：基于 SURE 的鲁棒 MRI 重构与扩散模型) [[arxiv](https://arxiv.org/abs/2310.01799)] [[code](https://github.com/batuozt/SMRD)]
 
 + Learning Expected Appearances for Intraoperative Registration during Neurosurgery (学习神经外科术中登记的预期外观) [[arxiv](https://arxiv.org/abs/2310.01735)] [code]
