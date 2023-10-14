@@ -2,7 +2,7 @@
 
 持续更新中...
 
-springer 的官网已经放出合订本了，有资源的朋友们可以自行去下载了。
+springer 的官网已经放出合订本了，有资源的朋友们可以自行去下载了。需要的直接联系我的邮箱吧。
 
 [Part I: Machine learning with limited supervision and machine learning – transfer learning](https://link.springer.com/book/10.1007/978-3-031-43907-0)
 
