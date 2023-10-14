@@ -27,6 +27,11 @@ springer 的官网已经放出合订本了，有资源的朋友们可以自行�
 
 ---
 
++ Structure-Preserving Instance Segmentation via Skeleton-Aware Distance Transform (通过骨架感知距离变换实现结构保持型实例分割) [[arxiv](https://arxiv.org/abs/2310.05262)] [code]
+
++ Machine Learning for Automated Mitral Regurgitation Detection from Cardiac Imaging (从心脏成像中自动检测二尖瓣反流的机器学习) [[arxiv](https://arxiv.org/abs/2310.04871)] [code]
+
++ HartleyMHA: Self-Attention in Frequency Domain for Resolution-Robust and Parameter-Efficient 3D Image Segmentation (HartleyMHA：在频域中自我关注，实现分辨率稳定、参数高效的三维图像分割) [[arxiv](https://arxiv.org/abs/2310.04466)] [[code](https://github.com/IBM/multimodal-3d-image-segmentation)]
 
 + SMRD: SURE-based Robust MRI Reconstruction with Diffusion Models (SMRD：基于 SURE 的鲁棒 MRI 重构与扩散模型) [[arxiv](https://arxiv.org/abs/2310.01799)] [[code](https://github.com/batuozt/SMRD)]
 
