@@ -4,6 +4,8 @@
 
 springer 的官网已经放出合订本了，有资源的朋友们可以自行去下载了。需要的直接[联系我的邮箱](mailto:chenluda01@gmail.com)。
 
+注意：如果您获得了任何论文或材料，请确保它们仅用于个人研究和学习目的，并不得用于任何商业目的。
+
 [Part I: Machine learning with limited supervision and machine learning – transfer learning](https://link.springer.com/book/10.1007/978-3-031-43907-0)
 
 [Part II: Machine learning – learning strategies; machine learning – explainability, bias, and uncertainty](https://link.springer.com/book/10.1007/978-3-031-43895-0)
