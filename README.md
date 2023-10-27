@@ -28,6 +28,21 @@ springer 的官网已经放出合订本了，有资源的朋友们可以自行�
 
 
 ---
++ Interpretable Medical Image Classification using Prototype Learning and Privileged Information (利用原型学习和特权信息进行可解释医学图像分类) [[arxiv](https://arxiv.org/abs/2310.15741)] [[code](https://github.com/XRad-Ulm/Proto-Caps)]
+
++ Diffusion-based Data Augmentation for Nuclei Image Segmentation (基于扩散的核图像分割数据增强技术) [[arxiv](https://arxiv.org/abs/2310.14197)] [[code](https://github.com/lhaof/Nudiff)]
+
++ Prompt-based Grouping Transformer for Nucleus Detection and Classification (基于提示的核检测与分类分组 Transformer) [[arxiv](https://arxiv.org/abs/2310.14176)] [[code](https://github.com/lhaof/PGT)]
+
++ ASC: Appearance and Structure Consistency for Unsupervised Domain Adaptation in Fetal Brain MRI Segmentation (ASC： 胎儿脑磁共振成像分割中无监督领域适应的外观和结构一致性) [[arxiv](https://arxiv.org/abs/2310.14172)] [[code](https://github.com/lhaof/ASC)]
+
++ Visual-Attribute Prompt Learning for Progressive Mild Cognitive Impairment Prediction (用于渐进性轻度认知障碍预测的视觉属性提示学习) [[arxiv](https://arxiv.org/abs/2310.14158)] [[code](https://github.com/lhaof/VAPL)]
+
++ CXR-CLIP: Toward Large Scale Chest X-ray Language-Image Pre-training (CXR-CLIP：实现大规模胸部 X 射线语言图像预培训) [[arxiv](https://arxiv.org/abs/2310.13292)] [code]
+
++ Co-Learning Semantic-aware Unsupervised Segmentation for Pathological Image Registration (用于病理图像配准的协同学习语义感知无监督分割技术) [[arxiv](https://arxiv.org/abs/2310.11040)] [code]
+
++ Foundation Ark: Accruing and Reusing Knowledge for Superior and Robust Performance (基础方舟：积累和重用知识，实现卓越稳健的绩效) [[arxiv](https://arxiv.org/abs/2310.09507)] [[code](https://github.com/JLiangLab/Ark)]
 
 + Structure-Preserving Instance Segmentation via Skeleton-Aware Distance Transform (通过骨架感知距离变换实现结构保持型实例分割) [[arxiv](https://arxiv.org/abs/2310.05262)] [code]
 
