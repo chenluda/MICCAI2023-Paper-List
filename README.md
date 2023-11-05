@@ -28,6 +28,12 @@ springer 的官网已经放出合订本了，有资源的朋友们可以自行�
 
 
 ---
++ Dual Conditioned Diffusion Models for Out-Of-Distribution Detection: Application to Fetal Ultrasound Videos (用于分布外检测的双条件扩散模型：胎儿超声视频应用) [[arxiv](https://arxiv.org/abs/2311.00469)] [code]
+
++ Rethinking Semi-Supervised Federated Learning: How to co-train fully-labeled and fully-unlabeled client imaging data (反思半监督联合学习：如何共同训练完全标记和完全未标记的客户成像数据) [[arxiv](https://arxiv.org/abs/2310.18815)] [code]
+
++ TabAttention: Learning Attention Conditionally on Tabular Data (TabAttention：根据表格数据有条件地学习注意力) [[arxiv](https://arxiv.org/abs/2310.18129)] [[code](https://github.com/SanoScience/Tab-Attentions)]
+
 + Interpretable Medical Image Classification using Prototype Learning and Privileged Information (利用原型学习和特权信息进行可解释医学图像分类) [[arxiv](https://arxiv.org/abs/2310.15741)] [[code](https://github.com/XRad-Ulm/Proto-Caps)]
 
 + Diffusion-based Data Augmentation for Nuclei Image Segmentation (基于扩散的核图像分割数据增强技术) [[arxiv](https://arxiv.org/abs/2310.14197)] [[code](https://github.com/lhaof/Nudiff)]
